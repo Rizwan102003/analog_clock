@@ -1,6 +1,6 @@
 # analog_clock
 
-A fully functional analog clock with a custom sound that I like.
+A fully functional analog clock with a customizable sound according to the user.
 
 TO ADD YOUR CUSTOM SOUND/MUSIC :
 STEP 1: make a file of your audio and rename it as sound.mp3
